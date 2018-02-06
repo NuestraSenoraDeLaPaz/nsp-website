@@ -1,6 +1,6 @@
 # Nsp-website
 
-Esta sera la pagina de Nuestra Senora de la Paz
+Esta sera la pagina de Nuestra Senora de la Paz. Estara hecha en Laravel.
 
 ## About Laravel
 
