@@ -1,5 +1,6 @@
 #Nsp-website
-Este sera el sitio web para la parroquia de nuestra senora de la paz
+
+Esta sera la pagina de Nuestra Senora de la Paz
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
